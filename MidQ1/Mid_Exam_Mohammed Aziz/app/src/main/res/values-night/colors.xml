@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#7AA2F7</color>
+    <color name="primary_dark">#0F172A</color>
+    <color name="accent">#C59B8A</color>
+
+    <color name="app_bg">#121417</color>
+    <color name="text_primary">#F3F4F6</color>
+    <color name="text_secondary">#9CA3AF</color>
+
+    <color name="btn_prev_bg">#A97C6C</color>
+    <color name="btn_prev_text">#121417</color>
+
+    <color name="btn_next_bg">#5B82C4</color>
+    <color name="btn_next_text">#FFFFFF</color>
+
+    <color name="btn_disabled_bg">#4B5563</color>
+</resources>

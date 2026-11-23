@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#2B4C7E</color>
+    <color name="primary_dark">#2B4C7E</color>
+    <color name="accent">#8C5A4A</color>
+
+    <color name="bar_bg">#2B4C7E</color>
+    <color name="app_bg">#F6F4EF</color>
+    <color name="text_primary">#1C1917</color>
+    <color name="text_secondary">#57534E</color>
+
+    <color name="btn_prev_bg">#8C5A4A</color>
+    <color name="btn_prev_text">#FFFFFF</color>
+
+    <color name="btn_next_bg">#2B4C7E</color>
+    <color name="btn_next_text">#FFFFFF</color>
+
+    <color name="btn_disabled_bg">#9CA3AF</color>
+</resources>
